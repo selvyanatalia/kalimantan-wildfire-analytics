@@ -4,54 +4,53 @@
 
 ## 📌 Project Overview
 
-This project analyzes wildfire activity, habitat exposure, and ecological risk across Kalimantan, Indonesia. The analysis integrates spatial wildfire hotspot data with global biodiversity records to identify regions with high ecological exposure and endangered species presence. The results are presented through interactive dashboards and spatial data models to provide actionable insights into:
+This research investigates wildfire activity, habitat exposure, and ecological risk in Kalimantan, Indonesia. The study combines geographical wildfire hotspot data with global biodiversity records to identify areas with significant ecological risk and endangered species presence. The results are displayed using interactive dashboards and geographical data models to provide actionable insights into:
 
 * 📊 Wildfire hotspot distribution, confidence levels, and Fire Radiative Power (FRP)
 * 🐾 Threatened flora and fauna species exposed to wildfire areas
 * 🗺️ High-risk ecological exposure grids and biodiversity concentration areas
 * 🌲 Habitat and land cover vulnerability patterns across Kalimantan
 
-These insights aim to support conservation organizations, forest management agencies, and environmental NGOs in data-driven monitoring and prioritization of ecosystem protection efforts.
+These findings are intended to help conservation organizations, forest management agencies, and environmental non-governmental organizations (NGOs) assess and prioritize ecosystem protection efforts using data.
 
 ---
 
 ## 🏛️ Background
 
-Kalimantan's tropical rainforest is one of the oldest and largest rainforest ecosystems in the world, serving as a critical habitat for thousands of flora and fauna species and playing a vital role in global climate regulation. However, intensive deforestation, land conversion, mining, and agricultural expansion have placed severe pressure on these natural habitats.
+Kalimantan's tropical rainforest is one of the world's oldest and largest rainforest ecosystems, providing significant home for thousands of plant and animal species and playing an important role in global climate regulation. However, excessive deforestation, land conversion, mining, and agricultural development have all put significant strain on these natural environments.
 
-During severe dry periods (such as Quarter 4, 2026), intense wildfires frequently impact forest and land cover across Kalimantan. These fires not only destroy critical habitats but also force endangered wildlife out of their natural environment. Traditional monitoring often focuses solely on hotspot counts without integrating spatial biodiversity overlays. To bridge this gap, this project analyzes integrated datasets from NASA VIIRS hotspot detection and GBIF biodiversity records to assess spatial exposure risks and identify priority conservation zones.
+During severe drought times (such as Quarter 4, 2026), major wildfires frequently affect Kalimantan's forest and land cover. These fires not only destroy crucial habitats, but they also drive endangered creatures out of their native habitats. Traditional monitoring frequently focuses exclusively on hotspot counts, without taking into account spatial biodiversity overlays. To close this gap, this study analyzes combined datasets from NASA VIIRS hotspot detection and GBIF biodiversity records to quantify spatial exposure risks and identify priority conservation zones.
 
 ---
 
 ## 🎯 Objectives
 
-As a Data Analyst, the goal is to prepare an integrated analytical report and dashboard focusing on:
+As a Data Analyst, the purpose is to create an integrated analytical report and dashboard concentrating on:
 
-* ✅ Spatial distribution and intensity profiling of wildfire hotspots
-* ✅ Identification of threatened flora and fauna species within affected grids
-* ✅ Assessment of ecological exposure levels across geographic grid units in Kalimantan
-* ✅ Interactive visualization for targeted conservation and risk mitigation planning
+* ✅ Analysis of wildfire hotspot distribution and intensity.
+* ✅ Identify vulnerable plants and fauna inside affected grids.
+* ✅ Evaluate ecological exposure levels in Kalimantan's geographic grid units.
+* ✅ Interactive visualization for conservation and risk management planning.
 
 ---
 
 ## 🔍 Problem Statement (5W + 1H)
 
-1. **How many** species are recorded within wildfire hotspot areas in Kalimantan?
-2. **Which species** have the highest observation records in wildfire-exposed areas?
-3. **Which mammal species** are most frequently recorded in wildfire-exposed zones?
-4. **Which geographic areas/grids** display the highest biodiversity and wildfire exposure levels?
-5. **How is ecological exposure distributed** and varied across different grid regions in Kalimantan?
-6. **Is there a significant difference** in average hotspot counts per grid between West Kalimantan and Central Kalimantan?
+1. How many species have been identified in Kalimantan's wildfire hotspot areas?
+2. Which species has the most observation records in wildfire-affected areas?
+3. Which mammals have been observed in wildfire-prone environments, and which have the most records of wildfire-related occurrences
+4. Which locations are the most biodiverse and vulnerable to fire?
+5. What is the distribution and extent of ecological exposure variance across Kalimantan grids?
+6. Is the average number of hotspots per grid in West Kalimantan significantly different than in Central Kalimantan?
 
 ---
 
 ## 👥 Target Users / Clients
 
-* 🌿 **Conservation Organizations:** To identify priority conservation zones based on wildfire severity and endangered species presence
-* 🐘 **Forest & Wildlife Management Agencies:** To support active monitoring and habitat protection planning
-* 🌐 **Environmental NGOs:** To facilitate data-backed research, advocacy, and field protection programs
-* 🏛️ **Government & Policy Makers:** To serve as supporting data for regional fire monitoring and ecosystem management policies
-
+* 🌿 **Conservation Organizations:** Identify priority conservation zones based on wildfire severity and endangered species occurrence
+* 🦉 **Forest and Wildlife Management Agencies:** Support active monitoring and habitat protection planning
+* 🌐 **Environmental NGOs:** To support data-driven research, advocacy, and field protection programs
+* 🏛️ **Government and Policymakers:** To provide supporting data for regional fire monitoring and ecosystem management policies
 ---
 
 ## 🔗 Datasets Used
