@@ -1,4 +1,4 @@
-🦆 Kalimantan, Indonesia Wildfire and Ecological Exposure (2026)
+# 🦆 Kalimantan, Indonesia Wildfire and Ecological Exposure (2026)
 
 **by Selvyana Natalia Purnomo** 
 
@@ -27,10 +27,10 @@ During severe drought times (such as Quarter 4, 2026), major wildfires frequentl
 
 As a Data Analyst, the purpose is to create an integrated analytical report and dashboard concentrating on:
 
-* ✅ Analysis of wildfire hotspot distribution and intensity.
-* ✅ Identify vulnerable plants and fauna inside affected grids.
-* ✅ Evaluate ecological exposure levels in Kalimantan's geographic grid units.
-* ✅ Interactive visualization for conservation and risk management planning.
+* ✅ Analysis of wildfire hotspot distribution and intensity
+* ✅ Identify vulnerable plants and fauna inside affected grids
+* ✅ Evaluate ecological exposure levels in Kalimantan's geographic grid units
+* ✅ Interactive visualization for conservation and risk management planning
 
 ---
 
