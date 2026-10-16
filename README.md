@@ -58,6 +58,10 @@ As a Data Analyst, the purpose is to create an integrated analytical report and 
 * 🛰️ **NASA FIRMS Fire Map (VIIRS Hotspot Data):** [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/)
 * 🌸 **GBIF (Global Biodiversity Information Facility):** [GBIF Portal](https://www.gbif.org/)
 * 🗺️ **Global Natural Watch (Supporting Spatial Data):** [Global Natural Watch](https://globalnaturewatch.org/map/)
+
+## 🖼️ Tableau Dashboard
+
+📊 [Kalimantan, Indonesia Wildfire and Ecological Exposure (2026)](https://public.tableau.com/views/KalimantanWildfireandEcologicalExposure2026/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
 ## ⛓️‍💥 Let's Connect!
 
